@@ -21,9 +21,7 @@ void ResultadoAposta()
 void Exibir()
 {
 	printf("-------------------------------------------\n");
-	printf(" FACULDADE PITAGORAS - UNIDADE BETIM       \n");
-	printf("-------------------------------------------\n");
-	printf("       CURSO: ENGENHARIA ELÉTRICA          \n");
+	printf("   CURSO: ANÁLISE E DESENV DE SISTEMAS 	   \n");
 	printf("   ALGORITMOS E LÓGICA PARA PROGRAMAÇÃO    \n");
 	printf("-------------------------------------------\n");
 	printf("   -> Programa Loteria Mega Maluca <-      \n");
